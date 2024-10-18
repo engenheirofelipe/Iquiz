@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AC9948A42CC2FB7000CCA82D /* Questao.swift in Sources */ = {isa = PBXBuildFile; fileRef = AC9948A32CC2FB7000CCA82D /* Questao.swift */; };
 		ACF9F2472CC16A44008400DB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF9F2462CC16A44008400DB /* AppDelegate.swift */; };
 		ACF9F2492CC16A44008400DB /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF9F2482CC16A44008400DB /* SceneDelegate.swift */; };
 		ACF9F24B2CC16A44008400DB /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = ACF9F24A2CC16A44008400DB /* ViewController.swift */; };
@@ -37,6 +38,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AC9948A32CC2FB7000CCA82D /* Questao.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Questao.swift; sourceTree = "<group>"; };
 		ACF9F2432CC16A44008400DB /* Iquiz.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Iquiz.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACF9F2462CC16A44008400DB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		ACF9F2482CC16A44008400DB /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -109,6 +111,7 @@
 				ACF9F2512CC16A4A008400DB /* LaunchScreen.storyboard */,
 				ACF9F2542CC16A4A008400DB /* Info.plist */,
 				ACF9F2782CC172CE008400DB /* QuestaoViewController.swift */,
+				AC9948A32CC2FB7000CCA82D /* Questao.swift */,
 			);
 			path = Iquiz;
 			sourceTree = "<group>";
@@ -264,6 +267,7 @@
 				ACF9F24B2CC16A44008400DB /* ViewController.swift in Sources */,
 				ACF9F2472CC16A44008400DB /* AppDelegate.swift in Sources */,
 				ACF9F2492CC16A44008400DB /* SceneDelegate.swift in Sources */,
+				AC9948A42CC2FB7000CCA82D /* Questao.swift in Sources */,
 				ACF9F2792CC172CE008400DB /* QuestaoViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
